@@ -1,0 +1,12 @@
+C:\Sergiu\Pizzeria\Pizzeria.Core\bin\Debug\net5.0\Pizzeria.Core.deps.json
+C:\Sergiu\Pizzeria\Pizzeria.Core\bin\Debug\net5.0\Pizzeria.Core.dll
+C:\Sergiu\Pizzeria\Pizzeria.Core\bin\Debug\net5.0\ref\Pizzeria.Core.dll
+C:\Sergiu\Pizzeria\Pizzeria.Core\bin\Debug\net5.0\Pizzeria.Core.pdb
+C:\Sergiu\Pizzeria\Pizzeria.Core\obj\Debug\net5.0\Pizzeria.Core.csproj.AssemblyReference.cache
+C:\Sergiu\Pizzeria\Pizzeria.Core\obj\Debug\net5.0\Pizzeria.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sergiu\Pizzeria\Pizzeria.Core\obj\Debug\net5.0\Pizzeria.Core.AssemblyInfoInputs.cache
+C:\Sergiu\Pizzeria\Pizzeria.Core\obj\Debug\net5.0\Pizzeria.Core.AssemblyInfo.cs
+C:\Sergiu\Pizzeria\Pizzeria.Core\obj\Debug\net5.0\Pizzeria.Core.csproj.CoreCompileInputs.cache
+C:\Sergiu\Pizzeria\Pizzeria.Core\obj\Debug\net5.0\Pizzeria.Core.dll
+C:\Sergiu\Pizzeria\Pizzeria.Core\obj\Debug\net5.0\ref\Pizzeria.Core.dll
+C:\Sergiu\Pizzeria\Pizzeria.Core\obj\Debug\net5.0\Pizzeria.Core.pdb
